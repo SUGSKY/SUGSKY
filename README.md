@@ -1,11 +1,11 @@
 <h1 align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 <h3 align="left">I'm Steven Sugihermanto</h3>
 
-- 💪 Currently pursuing a career as Computer Vision Engineer at [ASMPT, Hong Kong!](https://www.asmpt.com/)
+- 💪 Currently pursuing a career as a Software Engineer in Dun & Bradstreet
 
-- 📚 I majoring in Computer Science and Engineering at the [School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en)
+- 📚 I major in Computer Science and Engineering at the [School of Data Science, CUHK-Shenzhen](https://sds.cuhk.edu.cn/en)
 
-- 💬 My current interests include Machine Learning, Computer Vision, anything realted to computer really <3
+- 💬 My current interests include Machine Learning, Computer Vision, anything realted to tech <3
 
 - 📫 How to reach me: ssteven.sugi@gmail.com
 
