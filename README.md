@@ -39,4 +39,3 @@
 
 [Website]: https://sugsky.github.io
 [LinkedIn]: https://www.linkedin.com/in/stevensugi/
-[Email]: mailto:ssteven.sugi@gmail.com
