@@ -14,8 +14,6 @@
 
 [<img align="left" alt="sugsky.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="linkedin.com/in/stevensugi/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="ssteven.sugi@gmail.com" width="22px" src="http://simpleicons.org/icons/microsoftoutlook.svg" />][Email]
-
 
 <br />
 <br />
